@@ -1,0 +1,11 @@
+project:
+  name: taxi_fare_prediction
+  version: 1.0
+
+artefacts:
+  features_path: "/Workspace/Users/hilgdna.belagavi@gmail.com/sample_repo/artefacts/features/features_1.pkl"
+  model_path: "/Workspace/Users/hilgdna.belagavi@gmail.com/sample_repo/artefacts/models/model_1.pkl"
+
+training:
+  test_size: 0.2
+  random_state: 42
