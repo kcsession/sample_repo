@@ -1,2 +1,2 @@
 # sample_repo
-Sample repository for best practices on git.
+Sample repository for best practices on git (DBX).
