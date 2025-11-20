@@ -1,0 +1,4 @@
+2025-11-20 21:51:38,168 - INFO - Data Ingestion started
+2025-11-20 21:51:38,168 - INFO - Attempting to load table: samples.nyctaxi.trips
+2025-11-20 21:51:38,169 - INFO - Applying limit: 1
+2025-11-20 21:51:38,169 - INFO - Successfully loaded table: samples.nyctaxi.trips
